@@ -1,0 +1,19 @@
+Menu Tools
+{
+	Separator
+	Menu "DDL"
+	{
+   option "Generate Code"
+   {
+	enable %selected_items:empty:false
+	RoseScript $SCRIPT_PATH\ddlgen.ebx
+   }
+   option "Browse DDL"
+   {
+   	RoseScript $SCRIPT_PATH\browseddl.ebx
+   }
+
+}
+
+	
+}

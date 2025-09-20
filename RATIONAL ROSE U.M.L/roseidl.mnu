@@ -1,0 +1,16 @@
+Menu Tools
+{
+	Separator
+	Menu "IDL"
+	{
+		option "Generate IDL"
+		{
+			enable %selected_items:empty:false
+			RoseScript $SCRIPT_PATH\genidl.ebx
+		}
+		option "Convert Rose 4.0 IDL to Rose98 IDL"
+		{
+			RoseScript $SCRIPT_PATH\cg_2_idl.ebx
+		}
+	}
+}

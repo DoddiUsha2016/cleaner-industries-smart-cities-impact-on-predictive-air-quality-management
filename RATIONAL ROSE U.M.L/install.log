@@ -1,0 +1,302 @@
+
+
+---> Rational Rose 98 Enterprise Edition Installation <---
+Installation began : 01:24:14, 3-10-2008
+Chosen Installation Area : C:\Program Files\Rational\Rational Rose 98 Enterprise Edition
+Installation Platform : Windows NT
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Logic Works\ERwin Translation Wizard\1.0in the registry
+Set key SOFTWARE\Logic Works\ERwin Translation Wizard\1.0\BinPathto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\ERwin in the registry
+InstallDLL : Installed rvbdialogs.exe from C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\dlls
+             to C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vs\dlls successfully
+InstallDLL : Installed rvsintegrationmanager.exe from C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\dlls
+             to C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vs\dlls successfully
+C:\PROGRA~1\Rational\RATION~1\dlls\RVBDIA~1.EXE was Converted to a short path
+C:\PROGRA~1\Rational\RATION~1\dlls\RVSINT~1.EXE was Converted to a short path
+InstallDLL : Installed rose.exe from C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\dlls
+             to C:\Program Files\Rational\Rational Rose 98 Enterprise Edition successfully
+C:\PROGRA~1\Rational\RATION~1\dlls\rose.exe was Converted to a short path
+Set the default registery root to HKEY_CURRENT_USER
+Created key SOFTWARE\Rational Softwarein the registry
+Created key SOFTWARE\Rational Software\Rosein the registry
+Set key SOFTWARE\Rational Software\Rose\IniFileDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition in the registry
+Created key SOFTWARE\Rational Software\Rose\Virtual Path Mapin the registry
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition in the registry
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\STEREOTYPESto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\stereotypes in the registry
+Set the default registery root to HKEY_USERS
+Created key .Default\Software\Rational Softwarein the registry
+Created key .Default\Software\Rational Software\Rosein the registry
+Set key .Default\Software\Rational Software\Rose\IniFileDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition in the registry
+Created key .Default\Software\Rational Software\Rose\Virtual Path Mapin the registry
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition in the registry
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\STEREOTYPESto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\stereotypes in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Softwarein the registry
+Created key SOFTWARE\Rational Software\Rosein the registry
+Set key SOFTWARE\Rational Software\Rose\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition in the registry
+Set key SOFTWARE\Rational Software\Rose\HelpFileDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\help in the registry
+Created key SOFTWARE\Rational Software\Active Setupin the registry
+Created key SOFTWARE\Rational Software\Active Setup\Rosein the registry
+Set key SOFTWARE\Rational Software\Active Setup\Rose\SNto value 300-1072636 in the registry
+Set key SOFTWARE\Rational Software\Active Setup\Rose\Ownerto value g in the registry
+Set key SOFTWARE\Rational Software\Active Setup\Rose\OwnerCompanyto value h in the registry
+Created key SOFTWARE\Rational Software\Rose\StereotypeCfgFilesin the registry
+Set key SOFTWARE\Rational Software\Rose\StereotypeCfgFiles\File1to value DefaultStereotypes.ini in the registry
+Set key SOFTWARE\Rational Software\Rose\StereotypeCfgFiles\File2to value COMStereotypes.ini in the registry
+Created key SOFTWARE\Rational Software\Rose\AddInsin the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\DDLin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\PropertyFileto value roseddl.pty in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\ToolNameto value DDL in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\ToolDisplayNameto value DDL in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\HelpFileNameto value roseu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\DDL\MenuFileto value roseddl.mnu in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\IDLin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\HelpFileNameto value roseu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\MenuFileto value roseidl.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\PropertyFileto value roseidl.pty in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\ToolDisplayNameto value IDL in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\ToolNameto value IDL in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\IDL\Versionto value 1.0 in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\Visual Basicin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\FundamentalTypesto value Boolean; Byte; Currency; Date; Double; Integer; Long; Object; Single; String; Variant in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vb in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\LanguageAddInto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\MenuFileto value rvb.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\PropertyFileto value vb.pty in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\HelpFileNameto value rosevbu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\StereotypeCfgFileto value VBStereotypes.ini in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\Code Updatein the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\Model Updatein the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Visual Basic\Synchronizein the registry
+Set the default registery root to HKEY_CURRENT_USER
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\VBADDIN_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vb\scripts in the registry
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\VBADDIN_TEMPLATE_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vb\template in the registry
+Set the default registery root to HKEY_USERS
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\VBADDIN_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vb\scripts in the registry
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\VBADDIN_TEMPLATE_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vb\template in the registry
+Added RVBAddInMenus.Connector=1 to section [Add-Ins32] of file C:\WINNT\VBAddin.INI
+Added RVBAddIn.Connector=1 to section [Add-Ins32] of file C:\WINNT\VBAddin.INI
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\IntegrationManagerin the registry
+Set key SOFTWARE\Rational Software\IntegrationManager\0to value rvsApplicationStarter.Interface in the registry
+Set key SOFTWARE\Rational Software\IntegrationManager\1to value rvsApplicationStarter.Interface in the registry
+Set key SOFTWARE\Rational Software\IntegrationManager\2to value rvsApplicationStarter.Interface in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\VisualStudioin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vs in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\MenuFileto value rvs.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\OLEServerto value vs.api in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\HelpFileNameto value rosevbu in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\Eventsin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\Events\OnActivateto value Interface in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\VisualStudio\Events\OnDeactivateto value Interface in the registry
+Set the default registery root to HKEY_CURRENT_USER
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\VSADDIN_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vs\scripts in the registry
+Set the default registery root to HKEY_USERS
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\VSADDIN_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\vs\scripts in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\Repositoryin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\repos in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\MenuFileto value rvbrepos.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Repository\HelpFileNameto value roserep in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Repository\Eventsin the registry
+Set the default registery root to HKEY_CURRENT_USER
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\REPOSADDIN_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\repos\scripts in the registry
+Set the default registery root to HKEY_USERS
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\REPOSADDIN_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\repos\scripts in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporterin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporter\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporter\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporter\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporter\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\TypeLibImp in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporter\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporter\OLEServerto value rtitlibimp.api in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\TypeLibImporter\Versionto value 1.0 in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizardin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\framework in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\OLEServerto value rfwframewrk.api in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\HelpFileNameto value framework in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\ToolNameto value framework in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Custom Settingsin the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Custom Settings\Activationin the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Eventsin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Framework Wizard\Events\OnNewModelto value Interface in the registry
+Set the default registery root to HKEY_CURRENT_USER
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\FRAMEWORK_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\framework\frameworks in the registry
+Set the default registery root to HKEY_USERS
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\FRAMEWORK_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\framework\frameworks in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\SCCin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\scc in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\MenuFileto value scc.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\SCC\HelpFileNameto value scc in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\SCC\Eventsin the registry
+Set the default registery root to HKEY_CURRENT_USER
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\SCC_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\scc\scripts in the registry
+Set the default registery root to HKEY_USERS
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\SCC_SCRIPT_PATHto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\scc\scripts in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\Javain the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\FundamentalTypesto value boolean; char; byte; short; int; long; float; double in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\java in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\LanguageAddInto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\MenuFileto value rosejava.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\OLEServerto value Rose.JavaAddIn in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\PropertyFileto value rosejava.pty in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Java\HelpFileNameto value rosejava in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\Oracle8in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\MenuFileto value oracle8.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\HelpFileNameto value rose_o8u in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\PropertyFileto value oracle8.pty in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\LanguageAddInto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\OLEServerto value Rose.Oracle8AddIn in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\StereotypeCfgFileto value o8stereotypes.ini in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\oracle8 in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\Eventsin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Oracle8\Events\OnActivateto value Interface in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\Rose C++in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Activeto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Companyto value Rational Software Corporation in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Copyrightto value Copyright © 1997-1998 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\MenuFileto value rosecpp.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\HelpFileNameto value rosecpp in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\PropertyFileto value rosecpp.pty in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\LanguageAddInto value Yes in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\FundamentalTypesto value char; int; long; short; float; double in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\OLEServerto value Rose.CPPAddIn in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\ToolDisplayNameto value C++ in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\ToolNameto value cg in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\ToolListto value MSVC in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\c++ in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Custom Settingsin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Custom Settings\SourceViewerto value notepad.exe in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Eventsin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\Rose C++\Events\OnActivateto value Interface in the registry
+Set the default registery root to HKEY_CURRENT_USER
+Set key SOFTWARE\Rational Software\Rose\Virtual Path Map\ROSECPP_SOURCEto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\c++\source in the registry
+Set the default registery root to HKEY_USERS
+Set key .Default\Software\Rational Software\Rose\Virtual Path Map\ROSECPP_SOURCEto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\c++\source in the registry
+Set the default registery root to HKEY_LOCAL_MACHINE
+Created key SOFTWARE\Rational Software\Rose\AddIns\ERwinin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\Activeto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\Companyto value Logic Works in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\Copyrightto value Logic Works and ERwin are US registered trademarks of Logic Works, Inc. (c) 1997 Logic Works, Inc. in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\FundamentalTypesto value char in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\LanguageAddInto value No in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\MenuFileto value erwin.mnu in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\OLEServerto value LogicWorks.Rose98.TranslationWizard in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\PropertyFileto value erwin.pty in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\Versionto value 1.0 in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\HelpFileNameto value transwiz in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\InstallDirto value C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\erwin in the registry
+Created key SOFTWARE\Rational Software\Rose\AddIns\ERwin\Eventsin the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\Events\OnActivateto value Interface in the registry
+Set key SOFTWARE\Rational Software\Rose\AddIns\ERwin\Events\OnNewModelto value Interface in the registry
+Set the default registery root to HKEY_CLASSES_ROOT
+Created key RoseDiffMerge.Applicationin the registry
+Set key .\RoseDiffMerge.Application\to value RoseDiffMerge Application in the registry
+Created key RoseDiffMerge.Application\CLSIDin the registry
+Set key RoseDiffMerge.Application\CLSID\to value {9833170A-BC8D-11D0-AA0C-00A024774324} in the registry
+Created key RoseDiffMerge.AppServerin the registry
+Set key .\RoseDiffMerge.AppServer\to value RoseDiffMerge.AppServer in the registry
+Created key RoseDiffMerge.AppServer\CLSIDin the registry
+Set key RoseDiffMerge.AppServer\CLSID\to value {769A547B-BCB6-11D0-AA0C-00A024774324} in the registry
+Created key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}in the registry
+Set key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}\to value RoseDiffMerge.AppServer in the registry
+Created key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}\InprocHandler32in the registry
+Set key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}\InprocHandler32\to value ole32.dll in the registry
+Created key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}\LocalServer32in the registry
+C:\PROGRA~1\Rational\RATION~1\visdiff.exe was Converted to a short path
+Added/Removed quotes from the long path C:\PROGRA~1\Rational\RATION~1\visdiff.exe
+Set key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}\LocalServer32\to value C:\PROGRA~1\Rational\RATION~1\visdiff.exe in the registry
+Created key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}\ProgIDin the registry
+Set key CLSID\{769A547B-BCB6-11D0-AA0C-00A024774324}\ProgID\to value RoseDiffMerge.AppServer in the registry
+Created key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}in the registry
+Set key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}\to value RoseDiffMerge.Application in the registry
+Created key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}\InprocHandler32in the registry
+Set key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}\InprocHandler32\to value ole32.dll in the registry
+Created key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}\LocalServer32in the registry
+C:\PROGRA~1\Rational\RATION~1\visdiff.exe was Converted to a short path
+Added/Removed quotes from the long path C:\PROGRA~1\Rational\RATION~1\visdiff.exe
+Set key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}\LocalServer32\to value C:\PROGRA~1\Rational\RATION~1\visdiff.exe in the registry
+Created key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}\ProgIDin the registry
+Set key CLSID\{9833170A-BC8D-11D0-AA0C-00A024774324}\ProgID\to value RoseDiffMerge.Application in the registry
+Set the default registery root to HKEY_CURRENT_USER
+Set key SOFTWARE\Rational Software\Rose\DefaultLanguageto value  in the registry
+Set the default registery root to <unknown>
+
+Setup could not create program folder .\Rational Rose 98 Enterprise Edition
+
+Added/Removed quotes from the long path "C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\rose.exe"
+
+Setup failed to add icon Rational Rose 98 Enterprise Edition to folder .\Rational Rose 98 Enterprise Edition
+
+Added/Removed quotes from the long path "C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\relnote.hlp"
+
+Setup failed to add icon Release Notes to folder .\Rational Rose 98 Enterprise Edition
+
+
+Setup failed to add icon UML Tutorial to folder .\Rational Rose 98 Enterprise Edition
+
+Added/Removed quotes from the long path "C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\help\Roseu.hlp"
+
+Setup failed to add icon Rose Help (UML Terminology) to folder .\Rational Rose 98 Enterprise Edition\Online Help
+
+Added/Removed quotes from the long path "C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\help\Rosec.hlp"
+
+Setup failed to add icon Rose Help (COM Terminology) to folder .\Rational Rose 98 Enterprise Edition\Online Help
+
+Added/Removed quotes from the long path "C:\Program Files\Rational\Rational Rose 98 Enterprise Edition\c++\analyzer.exe"
+
+Setup failed to add icon Rose C++ Analyzer to folder .\Rational Rose 98 Enterprise Edition
+
+Installation ended : 01:24:51, 3-10-2008
+

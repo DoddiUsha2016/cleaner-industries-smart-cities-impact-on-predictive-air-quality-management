@@ -1,0 +1,44 @@
+Menu Help
+{
+	Separator
+   	Menu "Rational on the &Web"
+	{
+		Option "&Online Support"
+		{
+			RoseScript $SCRIPT_PATH\webgorationalsupport.ebx
+		}
+		Option "Rose &Home Page"
+
+		{
+			RoseScript $SCRIPT_PATH\webgorational.ebx
+		}
+	}
+}
+Menu Report
+{
+option "Show &Participants in UC"
+
+   {
+	enable %selected_items:empty:false
+	RoseScript $SCRIPT_PATH\participants.ebx
+   }
+ option "&Documentation Report..."
+   {
+	RoseScript $SCRIPT_PATH\reportgen.ebx
+   }
+}
+Menu Tools
+{
+	
+  Separator
+  option "Class Wizard..."
+   {
+	RoseScript $SCRIPT_PATH\cwizard.ebx
+   }
+  Separator
+	Option "Visual Differencing"
+	{
+		RoseScript $SCRIPT_PATH\VisDiff.ebx
+	}
+ }
+

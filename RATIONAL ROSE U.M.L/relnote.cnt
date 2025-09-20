@@ -1,0 +1,42 @@
+:Base relnote.HLP
+1 Rose Enterprise Release Notes
+2 Welcome to Rational Rose (TM) 98 Enterprise Edition=RELNOTE_Welcome_Rose_Ent
+2 Known Rose 98 Enterprise Problems and Limitations=RELNOTE_Known_Rose_Problems
+1 Rose 98
+2 Welcome to Rational Rose 98=ROSERN_Welcome_to_Rational_Rose
+2 Enhancements in Rose=ROSERN_Enhance_Rose
+2 Upgrading from a Previous Release of Rose=ROSERN_Upgrade_Prev_RoseRelse
+2 Path Map Conversion=ROSERN_Path_Map_Conver
+2 Model Conversion=ROSERN_Model_Conver
+2 IDL Conversion=ROSERN_IDL_Conver
+2 Extensibility=ROSERN_Extensibility
+2 Attributes and Has Relationships=ROSERN_Attrbs_Has_Relations
+2 Rose 98 Configurations=ROSERN_Rose_Configurations
+2 Known Rose Problems and Limitations=ROSERN_Known_RoseProbs_Limits
+2 Rose Defects Fixed Since the Previous Release=ROSERN_Rose_Defects_Fixed_Since_Release
+1 Rose 98 Java (TM) Release Notes
+2 Welcome to Rose 98 Java=JAVARN_Wel_Java_Edition
+2 Enhancements in Rose Java Edition=JAVARN_Enh_Java
+2 Upgrading from a Previous Rose Java (TM) Release=JAVARN_Upgrade_Previous_Java
+2 Configuring the CLASSPATH Environment Variable=JAVARN_Cnfgr_Cpath_Envmt_Vrble
+2 Using the Browse Source Command=JAVARN_Use_Browse_S_Command
+2 Changes to Rose Java (TM) Documentation and Online Help=JAVARN_Changes_Doc_Help
+2 Known Rose Java (TM) Edition Problems and Limitations=JAVARN_Kwn_Prbs_Lmts
+2 Rose Java(TM) Edition Defects Fixed Since the Previous Release=JAVARN_Java_Defect_Fixed
+1 Rose 98 Oracle8 Release Notes
+2 Welcome to Rose 98 Oracle8=ORACLErn_Wel_Oracle
+2 Known Rose 98 Oracle8 Limitations=ORACLERN_Known_Oracle_Limits
+2 How to Generate Oracle8 DDL from other Rose Models=ORACLERN_Ht_gen_Oracle
+1 Rose 98 C++ Release Notes
+2 Enhancements in Rose C++=CPPRN_Enhance_Plus2
+2 Upgrading from a Previous Release of Rose C++=CPPRN_Upgrade_Prev_Release_C
+2 Files in the /C++ Directory=CPPRN_Files_CPP_Directory
+2 Known Rose C++ Problems and Limitations=CPPRN_Known_C_Probs_Limits
+2 Rose C++ Defects Fixed Since the Previous Release=CPPRN_Defects_Fixed
+1 Rose 98 Visual Basic Release Notes
+2 Welcome to Rose 98 Visual Basic=VBRN_Welcome_to_VB
+2 Enhancements in Rose 98 Visual Basic=VBRN_Enhance_VB
+2 Upgrading from a Previous Rose VB Release=VBRN_Upgrading_from_Prev_VB
+2 Visual Basic Configurations=VBRN_VB_Configurations
+2 Known Rose Visual Basic Problems and Limitations=VBRN_Known_VB_Limits
+2 Rose VB 4.0 Defects Fixed in Rose 98 VB=VBRN_Rose_VB_Fixed_Defects

@@ -1,0 +1,429 @@
+#
+# CORBA 1.2 IDL property file
+# Copyright (c) 1996, Rational Software Corporation. ALL RIGHTS RESERVED
+#
+(object Petal version 37)
+
+(list Attribute_Set
+	(object Attribute
+		tool       	"IDL"
+		name       	"roseId"
+		value      	"753117540"
+	)
+	(object Attribute
+		tool       	"IDL"
+		name       	"propertyId"
+		value      	"809135966"
+	)
+
+	#
+	# Project/Model properties
+	#
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Project"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"CreateMissingDirectories"
+				value      	TRUE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"StopOnError"
+				value      	TRUE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"Directory"
+				value      	"AUTO GENERATE"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"GeneratePreserveRegions"
+				value      	TRUE
+			)
+		)
+	)
+	
+	#
+	# Class properties
+	#	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Class"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"ImplementationType"
+				value      	""
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"ConstValue"
+				value      	""
+			)
+			(object Attribute
+				tool		"IDL"
+				name		"GenerateDefaultSpecifier"
+				value		FALSE
+			)
+			(object Attribute
+				tool		"IDL"
+				name		"DefaultSpecifier"
+				value		""
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IDLElement"
+				value      	TRUE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IDLSpecificationType"
+				value      	("IDLSpecSet" 22)
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IDLSpecSet"
+				value      	(list Attribute_Set
+					(object Attribute
+						tool       	"IDL"
+						name       	"Interface"
+						value      	22
+					)
+					(object Attribute
+						tool       	"IDL"
+						name       	"Typedef"
+						value      	54
+					)
+					(object Attribute
+						tool       	"IDL"
+						name       	"Enumeration"
+						value      	8
+					)
+					(object Attribute
+						tool		"IDL"
+						name		"Const"
+						value		71
+					)
+					(object Attribute
+						tool       	"IDL"
+						name       	"Exception"
+						value      	61
+					)
+					(object Attribute
+						tool       	"IDL"
+						name       	"Struct"
+						value      	51
+					)
+					(object Attribute
+						tool       	"IDL"
+						name       	"Union"
+						value      	81
+					)
+				)
+			)
+		)
+	)
+
+	#
+	# Module-Spec properties
+	#
+	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Module-Spec"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"Generate"
+				value      	TRUE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"CmIdentification"
+				value      	(value Text "  %X% %Q% %Z% %W%")
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"CopyrightNotice"
+				value      	(value Text "")
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"FileName"
+				value      	"AUTO GENERATE"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"GenerateIDLModule"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"InclusionProtectionSymbol"
+				value      	"AUTO GENERATE"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"AdditionalIncludes"
+				value      	(value Text "")
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IncludeBySimpleName"
+				value      	FALSE
+			)
+		)
+	)
+	
+	#
+	# Module-Body properties
+	#
+	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Module-Body"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"CmIdentification"
+				value      	(value Text "  %X% %Q% %Z% %W%")
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"CopyrightNotice"
+				value      	(value Text "")
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"FileName"
+				value      	"AUTO GENERATE"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"AdditionalIncludes"
+				value      	(value Text "")
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IncludeBySimpleName"
+				value      	FALSE
+			)
+		)
+	)
+	
+	#
+	# Operation properties
+	#
+	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Operation"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"OperationIsOneWay"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"Context"
+				value      	""
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"Raises"
+				value      	""
+			)
+		)
+	)
+
+	#
+	# Class Attribute Properties
+	#
+	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Attribute"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool		"IDL"
+				name		"CaseSpecifier"
+				value		""
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"GenerateDataMember"
+				value      	TRUE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"DataMemberName"
+				value      	"$relationship"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IsReadOnly"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IsConst"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"ConstValue"
+				value      	""
+			)
+		)
+	)
+	
+	#
+	# Has Properties
+	#
+	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Has"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"NameIfUnlabeled"
+				value      	"the_$supplier"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"GenerateDataMember"
+				value      	TRUE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"DataMemberName"
+				value      	"$relationship"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"GenerateForwardReference"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IsReadOnly"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"BoundedHasRelType"
+				value      	("HasRelTypeSet" 47)
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"HasRelTypeSet"
+				value      	(list Attribute_Set
+					(object Attribute
+						tool       	"IDL"
+						name       	"Array"
+						value      	24
+					)
+					(object Attribute
+						tool       	"IDL"
+						name       	"Sequence"
+						value      	47
+					)
+				)
+			)
+		)
+	)
+	
+	#
+	# Role properties
+	#
+	(object Attribute
+		tool		"IDL"
+		name		"default__Role"
+		value		(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"NameIfUnlabeled"
+				value      	"the_$supplier"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"GenerateDataMember"
+				value      	TRUE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"DataMemberName"
+				value      	"$relationship"
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"GenerateForwardReference"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"IsReadOnly"
+				value      	FALSE
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"BoundedRoleType"
+				value      	("AssocTypeSet" 47)
+			)
+			(object Attribute
+				tool       	"IDL"
+				name       	"AssocTypeSet"
+				value      	(list Attribute_Set
+					(object Attribute
+						tool       	"IDL"
+						name       	"Array"
+						value      	24
+					)
+					(object Attribute
+						tool       	"IDL"
+						name       	"Sequence"
+						value      	47
+					)
+				)
+			)
+		)
+	)
+
+	#
+	# Uses properties
+	#
+	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Uses"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"GenerateForwardReference"
+				value      	FALSE
+			)
+		)
+	)
+	
+	#
+	# Subsystem properties
+	#
+	
+	(object Attribute
+		tool       	"IDL"
+		name       	"default__Subsystem"
+		value      	(list Attribute_Set
+			(object Attribute
+				tool       	"IDL"
+				name       	"Directory"
+				value      	"AUTO GENERATE"
+			)
+		)
+	)
+)
+
